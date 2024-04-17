@@ -1,0 +1,5 @@
+PHP script on load
+PHP converts list of files into JSON appropriate for plugin
+JS fetches the JSON output and feeds it into the playlist function where it is shuffled and on autoplay
+???
+Profit! (Well actually brainrot)
